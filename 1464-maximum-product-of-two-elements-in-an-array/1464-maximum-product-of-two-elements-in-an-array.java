@@ -1,15 +1,18 @@
 class Solution {
     public int maxProduct(int[] nums) {
-       PriorityQueue<Integer> minheap= new PriorityQueue<>();
-       for(int num : nums){
-        minheap.offer(num);
-        if(minheap.size()>2){
-            minheap.poll();
-        }
-       }
-       int a = minheap.poll()-1;
-       int b = minheap.poll()-1;
-    return a*b;
+      int seclargest = 0;
+      int largest = 0;
+      for(int i = 0 ; i<nums.length ; i++ ){
+         if(nums[i]>largest){
+            seclargest = largest;
+            largest = nums[i];
+         }
+         else if(nums[i]<=largest && nums[i]>seclargest){
+            seclargest = nums[i];
+         }
+      }
+
+      return (seclargest-1)*(largest-1);
 
     }
 }

@@ -11,6 +11,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manish-3d/dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1920-build-array-from-permutation](https://github.com/manish-3d/dsa-grind/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/manish-3d/dsa-grind/tree/master/0295-find-median-from-data-stream) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/manish-3d/dsa-grind/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/manish-3d/dsa-grind/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/manish-3d/dsa-grind/tree/master/0485-max-consecutive-ones) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
@@ -78,6 +79,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/manish-3d/dsa-grind/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/manish-3d/dsa-grind/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

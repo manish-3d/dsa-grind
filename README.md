@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manish-3d/dsa-grind/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/manish-3d/dsa-grind/tree/master/0283-move-zeroes) |
@@ -102,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |

@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manish-3d/dsa-grind/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/manish-3d/dsa-grind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |
@@ -79,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/manish-3d/dsa-grind/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |
@@ -126,6 +128,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manish-3d/dsa-grind/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/manish-3d/dsa-grind/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/manish-3d/dsa-grind/tree/master/0295-find-median-from-data-stream) |
 ## Simulation

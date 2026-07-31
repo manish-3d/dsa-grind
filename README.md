@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish-3d/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/manish-3d/dsa-grind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manish-3d/dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
@@ -37,6 +39,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manish-3d/dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
@@ -77,6 +80,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manish-3d/dsa-grind/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
@@ -84,6 +88,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/manish-3d/dsa-grind/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |

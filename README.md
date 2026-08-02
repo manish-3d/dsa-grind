@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish-3d/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/manish-3d/dsa-grind/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/manish-3d/dsa-grind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/manish-3d/dsa-grind/tree/master/0414-third-maximum-number) |
@@ -160,6 +161,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/manish-3d/dsa-grind/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/manish-3d/dsa-grind/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/manish-3d/dsa-grind/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming

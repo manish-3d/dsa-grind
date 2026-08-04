@@ -36,6 +36,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/manish-3d/dsa-grind/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/manish-3d/dsa-grind/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish-3d/dsa-grind/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/manish-3d/dsa-grind/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manish-3d/dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
+| [3731-find-missing-elements](https://github.com/manish-3d/dsa-grind/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/manish-3d/dsa-grind/tree/master/3731-find-missing-elements) |
 ## Quickselect
 |  |
 | ------- |

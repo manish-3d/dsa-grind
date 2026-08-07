@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
+| [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -209,4 +210,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/manish-3d/dsa-grind/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

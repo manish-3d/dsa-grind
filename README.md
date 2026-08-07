@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manish-3d/dsa-grind/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/manish-3d/dsa-grind/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manish-3d/dsa-grind/tree/master/0027-remove-element) |
@@ -155,6 +156,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manish-3d/dsa-grind/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/manish-3d/dsa-grind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manish-3d/dsa-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/manish-3d/dsa-grind/tree/master/0344-reverse-string) |
@@ -168,6 +170,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manish-3d/dsa-grind/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 ## Linked List
 |  |

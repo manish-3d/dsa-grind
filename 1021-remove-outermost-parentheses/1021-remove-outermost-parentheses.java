@@ -4,12 +4,16 @@ class Solution {
         int balance = 0;
 
         for (char ch : s.toCharArray()) {
-            if (ch == '(') {
-                if (balance > 0) ans.append(ch);
-                balance++;
-            } else {
+            if(ch == '('){
+                if(balance >0){
+                    ans.append(ch);
+                }
+            balance++;
+            }else{
                 balance--;
-                if (balance > 0) ans.append(ch);
+                if(balance>0){
+                    ans.append(ch);
+                }
             }
         }
 

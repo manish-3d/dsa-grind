@@ -145,6 +145,7 @@
 | [0048-rotate-image](https://github.com/manish-3d/dsa-grind/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/manish-3d/dsa-grind/tree/master/1903-largest-odd-number-in-string) |
 ## Geometry
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/manish-3d/dsa-grind/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manish-3d/dsa-grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
@@ -188,6 +190,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/manish-3d/dsa-grind/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish-3d/dsa-grind/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum

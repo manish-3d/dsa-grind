@@ -175,6 +175,7 @@
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/manish-3d/dsa-grind/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/manish-3d/dsa-grind/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -243,10 +244,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |

@@ -157,6 +157,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/manish-3d/dsa-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
+| [0541-reverse-string-ii](https://github.com/manish-3d/dsa-grind/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manish-3d/dsa-grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
@@ -186,6 +187,7 @@
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/manish-3d/dsa-grind/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/manish-3d/dsa-grind/tree/master/0295-find-median-from-data-stream) |
+| [0541-reverse-string-ii](https://github.com/manish-3d/dsa-grind/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manish-3d/dsa-grind/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Simulation
 |  |

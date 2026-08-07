@@ -47,6 +47,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/manish-3d/dsa-grind/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/manish-3d/dsa-grind/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/manish-3d/dsa-grind/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -159,6 +160,7 @@
 | [0014-longest-common-prefix](https://github.com/manish-3d/dsa-grind/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/manish-3d/dsa-grind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manish-3d/dsa-grind/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/manish-3d/dsa-grind/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/manish-3d/dsa-grind/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/manish-3d/dsa-grind/tree/master/0541-reverse-string-ii) |

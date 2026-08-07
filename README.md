@@ -45,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/manish-3d/dsa-grind/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/manish-3d/dsa-grind/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/manish-3d/dsa-grind/tree/master/0205-isomorphic-strings) |
@@ -149,6 +150,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/manish-3d/dsa-grind/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/manish-3d/dsa-grind/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
@@ -162,6 +164,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/manish-3d/dsa-grind/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manish-3d/dsa-grind/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/manish-3d/dsa-grind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manish-3d/dsa-grind/tree/master/0151-reverse-words-in-a-string) |

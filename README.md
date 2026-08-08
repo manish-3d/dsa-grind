@@ -164,6 +164,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manish-3d/dsa-grind/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/manish-3d/dsa-grind/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manish-3d/dsa-grind/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/manish-3d/dsa-grind/tree/master/0125-valid-palindrome) |
@@ -196,6 +197,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manish-3d/dsa-grind/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/manish-3d/dsa-grind/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manish-3d/dsa-grind/tree/master/0027-remove-element) |
@@ -227,6 +229,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manish-3d/dsa-grind/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish-3d/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0152-maximum-product-subarray) |
@@ -262,4 +265,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/manish-3d/dsa-grind/tree/master/0796-rotate-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/manish-3d/dsa-grind/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

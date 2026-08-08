@@ -9,14 +9,14 @@ class Solution {
         map.put('D', 500);
         map.put('M', 1000);
         int ans = 0;
-        for(int i = 0 ; i<s.length() ; i++){
-            int curr = map.get(s.charAt(i));
-        if(i < s.length()-1 && curr < map.get(s.charAt(i+1))){
-            ans = ans -curr;
-        }else{
+       for(int i = 0 ; i<s.length() ; i++){
+        int curr = map.get(s.charAt(i));
+        if(i!=s.length()-1 &&curr >= map.get(s.charAt(i+1))){
             ans = ans + curr;
+        }else if(i!=s.length()-1 && curr<map.get(s.charAt(i+1))) {
+            ans = ans - curr;
         }
-        }
-        return ans;
+       }
+        return ans+ map.get(s.charAt(s.length()-1));
     }
 }

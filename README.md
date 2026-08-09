@@ -160,6 +160,7 @@
 | [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/manish-3d/dsa-grind/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/manish-3d/dsa-grind/tree/master/1922-count-good-numbers) |
 ## Geometry
 |  |
 | ------- |
@@ -278,4 +279,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/manish-3d/dsa-grind/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/manish-3d/dsa-grind/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->

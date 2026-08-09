@@ -154,6 +154,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/manish-3d/dsa-grind/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/manish-3d/dsa-grind/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/manish-3d/dsa-grind/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
@@ -273,4 +274,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manish-3d/dsa-grind/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/manish-3d/dsa-grind/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

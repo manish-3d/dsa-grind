@@ -158,6 +158,7 @@
 | [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
+| [0779-k-th-symbol-in-grammar](https://github.com/manish-3d/dsa-grind/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/manish-3d/dsa-grind/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/manish-3d/dsa-grind/tree/master/1922-count-good-numbers) |
@@ -279,5 +280,10 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/manish-3d/dsa-grind/tree/master/0050-powx-n) |
+| [0779-k-th-symbol-in-grammar](https://github.com/manish-3d/dsa-grind/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/manish-3d/dsa-grind/tree/master/1922-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/manish-3d/dsa-grind/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->

@@ -14,7 +14,7 @@ class Solution {
         }
         subans.add(nums[index]);
         subsetfinder(nums,ans,subans,index+1);
-        subans.remove(subans.size() - 1);
+        subans.remove(subans.size()-1);
         subsetfinder(nums,ans,subans,index+1);
     }
 }

@@ -16,6 +16,7 @@
 | [0056-merge-intervals](https://github.com/manish-3d/dsa-grind/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/manish-3d/dsa-grind/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/manish-3d/dsa-grind/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish-3d/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0152-maximum-product-subarray) |
@@ -288,9 +289,11 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/manish-3d/dsa-grind/tree/master/0078-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manish-3d/dsa-grind/tree/master/0779-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/manish-3d/dsa-grind/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

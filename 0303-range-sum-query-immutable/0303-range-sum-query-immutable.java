@@ -1,24 +1,21 @@
 class NumArray {
 int [] nums ;
-int ans ;
+HashMap<Integer,Integer> hmap = new HashMap<>();
     public NumArray(int[] nums) {
         this.nums = new int[nums.length];
         int i = 0;
+        int prefixsum = 0;
         for(int num : nums){
+            this.hmap.put(i,prefixsum);
+            prefixsum = prefixsum + num;
             this.nums[i++] = num;
         }
+        hmap.put(i,prefixsum);
     }
     
     public int sumRange(int left, int right) {
         int sum =0;
-        while(left<=right){
-            if(left==right){
-                sum = sum+ nums[left];
-            }
-            else{sum = sum+ nums[left] + nums[right];}
-            left++;
-            right--;
-        }
+       sum = hmap.get(right+1) - hmap.get(left);
         return sum;
     }
 }

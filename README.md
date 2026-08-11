@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manish-3d/dsa-grind/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/manish-3d/dsa-grind/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/manish-3d/dsa-grind/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/manish-3d/dsa-grind/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/manish-3d/dsa-grind/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0053-maximum-subarray) |
@@ -297,6 +298,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/manish-3d/dsa-grind/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/manish-3d/dsa-grind/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/manish-3d/dsa-grind/tree/master/0494-target-sum) |
 ## Knapsack Problem

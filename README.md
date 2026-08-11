@@ -28,6 +28,7 @@
 | [0238-product-of-array-except-self](https://github.com/manish-3d/dsa-grind/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish-3d/dsa-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/manish-3d/dsa-grind/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/manish-3d/dsa-grind/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/manish-3d/dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/manish-3d/dsa-grind/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/manish-3d/dsa-grind/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/manish-3d/dsa-grind/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/manish-3d/dsa-grind/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/manish-3d/dsa-grind/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/manish-3d/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/manish-3d/dsa-grind/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/manish-3d/dsa-grind/tree/master/1480-running-sum-of-1d-array) |

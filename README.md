@@ -16,6 +16,7 @@
 | [0046-permutations](https://github.com/manish-3d/dsa-grind/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/manish-3d/dsa-grind/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/manish-3d/dsa-grind/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/manish-3d/dsa-grind/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/manish-3d/dsa-grind/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
@@ -317,6 +318,7 @@
 | [0040-combination-sum-ii](https://github.com/manish-3d/dsa-grind/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/manish-3d/dsa-grind/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/manish-3d/dsa-grind/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/manish-3d/dsa-grind/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/manish-3d/dsa-grind/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/manish-3d/dsa-grind/tree/master/0494-target-sum) |
@@ -333,4 +335,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/manish-3d/dsa-grind/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

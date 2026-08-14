@@ -21,6 +21,7 @@
 | [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/manish-3d/dsa-grind/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/manish-3d/dsa-grind/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish-3d/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0152-maximum-product-subarray) |
@@ -185,6 +186,7 @@
 | [0014-longest-common-prefix](https://github.com/manish-3d/dsa-grind/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manish-3d/dsa-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/manish-3d/dsa-grind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manish-3d/dsa-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/manish-3d/dsa-grind/tree/master/0205-isomorphic-strings) |
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/manish-3d/dsa-grind/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish-3d/dsa-grind/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -315,6 +318,7 @@
 | [0046-permutations](https://github.com/manish-3d/dsa-grind/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/manish-3d/dsa-grind/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/manish-3d/dsa-grind/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/manish-3d/dsa-grind/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/manish-3d/dsa-grind/tree/master/0784-letter-case-permutation) |
 ## Knapsack Problem
@@ -325,4 +329,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/manish-3d/dsa-grind/tree/master/0494-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

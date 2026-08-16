@@ -1,6 +1,6 @@
 class Solution {
     public int findMaxLength(int[] nums) {
-        int n = nums.length;
+    int n = nums.length;
       for(int i=0; i<n ; i++){
         if(nums[i]== 0){
             nums[i] = -1;

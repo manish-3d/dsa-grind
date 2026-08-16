@@ -40,6 +40,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/manish-3d/dsa-grind/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/manish-3d/dsa-grind/tree/master/0494-target-sum) |
+| [0525-contiguous-array](https://github.com/manish-3d/dsa-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manish-3d/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/manish-3d/dsa-grind/tree/master/0724-find-pivot-index) |
@@ -64,6 +65,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/manish-3d/dsa-grind/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/manish-3d/dsa-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manish-3d/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manish-3d/dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
@@ -247,6 +249,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/manish-3d/dsa-grind/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/manish-3d/dsa-grind/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/manish-3d/dsa-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manish-3d/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/manish-3d/dsa-grind/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/manish-3d/dsa-grind/tree/master/1480-running-sum-of-1d-array) |

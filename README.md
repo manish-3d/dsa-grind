@@ -43,6 +43,7 @@
 | [0525-contiguous-array](https://github.com/manish-3d/dsa-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manish-3d/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
+| [0713-subarray-product-less-than-k](https://github.com/manish-3d/dsa-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/manish-3d/dsa-grind/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manish-3d/dsa-grind/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -77,6 +78,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/manish-3d/dsa-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manish-3d/dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
@@ -103,6 +105,7 @@
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish-3d/dsa-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0713-subarray-product-less-than-k](https://github.com/manish-3d/dsa-grind/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -254,6 +257,7 @@
 | [0303-range-sum-query-immutable](https://github.com/manish-3d/dsa-grind/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/manish-3d/dsa-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manish-3d/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/manish-3d/dsa-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/manish-3d/dsa-grind/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manish-3d/dsa-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/manish-3d/dsa-grind/tree/master/1109-corporate-flight-bookings) |

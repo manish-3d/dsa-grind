@@ -62,6 +62,7 @@
 | [0013-roman-to-integer](https://github.com/manish-3d/dsa-grind/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manish-3d/dsa-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/manish-3d/dsa-grind/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/manish-3d/dsa-grind/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/manish-3d/dsa-grind/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/manish-3d/dsa-grind/tree/master/0229-majority-element-ii) |
@@ -80,6 +81,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/manish-3d/dsa-grind/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/manish-3d/dsa-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manish-3d/dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manish-3d/dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -200,6 +202,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manish-3d/dsa-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/manish-3d/dsa-grind/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/manish-3d/dsa-grind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manish-3d/dsa-grind/tree/master/0151-reverse-words-in-a-string) |

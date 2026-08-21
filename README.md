@@ -28,6 +28,7 @@
 | [0152-maximum-product-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/manish-3d/dsa-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/manish-3d/dsa-grind/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/manish-3d/dsa-grind/tree/master/0238-product-of-array-except-self) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/manish-3d/dsa-grind/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/manish-3d/dsa-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/manish-3d/dsa-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manish-3d/dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manish-3d/dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -109,6 +111,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/manish-3d/dsa-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish-3d/dsa-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0713-subarray-product-less-than-k](https://github.com/manish-3d/dsa-grind/tree/master/0713-subarray-product-less-than-k) |
@@ -261,6 +264,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/manish-3d/dsa-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/manish-3d/dsa-grind/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/manish-3d/dsa-grind/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/manish-3d/dsa-grind/tree/master/0525-contiguous-array) |

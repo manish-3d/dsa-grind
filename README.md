@@ -25,6 +25,7 @@
 | [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish-3d/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manish-3d/dsa-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
@@ -185,6 +186,7 @@
 | [0048-rotate-image](https://github.com/manish-3d/dsa-grind/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/manish-3d/dsa-grind/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manish-3d/dsa-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manish-3d/dsa-grind/tree/master/0779-k-th-symbol-in-grammar) |
@@ -301,6 +303,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manish-3d/dsa-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/manish-3d/dsa-grind/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

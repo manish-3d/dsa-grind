@@ -57,6 +57,7 @@
 | [1920-build-array-from-permutation](https://github.com/manish-3d/dsa-grind/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish-3d/dsa-grind/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manish-3d/dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manish-3d/dsa-grind/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manish-3d/dsa-grind/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/manish-3d/dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/manish-3d/dsa-grind/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manish-3d/dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manish-3d/dsa-grind/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manish-3d/dsa-grind/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |

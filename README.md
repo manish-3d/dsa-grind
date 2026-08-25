@@ -42,6 +42,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/manish-3d/dsa-grind/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/manish-3d/dsa-grind/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/manish-3d/dsa-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manish-3d/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
@@ -73,6 +74,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/manish-3d/dsa-grind/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/manish-3d/dsa-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manish-3d/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
@@ -307,6 +309,7 @@
 | [0020-valid-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish-3d/dsa-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/manish-3d/dsa-grind/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -371,4 +374,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/manish-3d/dsa-grind/tree/master/0051-n-queens) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

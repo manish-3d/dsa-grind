@@ -48,6 +48,7 @@
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/manish-3d/dsa-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/manish-3d/dsa-grind/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/manish-3d/dsa-grind/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manish-3d/dsa-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manish-3d/dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
@@ -310,6 +311,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish-3d/dsa-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/manish-3d/dsa-grind/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/manish-3d/dsa-grind/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -378,4 +380,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/manish-3d/dsa-grind/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

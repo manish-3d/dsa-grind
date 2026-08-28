@@ -60,6 +60,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/manish-3d/dsa-grind/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/manish-3d/dsa-grind/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish-3d/dsa-grind/tree/master/1929-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/manish-3d/dsa-grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manish-3d/dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manish-3d/dsa-grind/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manish-3d/dsa-grind/tree/master/3731-find-missing-elements) |
@@ -323,6 +324,7 @@
 | [0901-online-stock-span](https://github.com/manish-3d/dsa-grind/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/manish-3d/dsa-grind/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -393,6 +395,7 @@
 | [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/manish-3d/dsa-grind/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/manish-3d/dsa-grind/tree/master/0901-online-stock-span) |
+| [2104-sum-of-subarray-ranges](https://github.com/manish-3d/dsa-grind/tree/master/2104-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |

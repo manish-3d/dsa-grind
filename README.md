@@ -24,6 +24,7 @@
 | [0078-subsets](https://github.com/manish-3d/dsa-grind/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manish-3d/dsa-grind/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/manish-3d/dsa-grind/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/manish-3d/dsa-grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish-3d/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish-3d/dsa-grind/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -290,6 +291,7 @@
 | [0005-longest-palindromic-substring](https://github.com/manish-3d/dsa-grind/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/manish-3d/dsa-grind/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish-3d/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/manish-3d/dsa-grind/tree/master/0494-target-sum) |
@@ -298,6 +300,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/manish-3d/dsa-grind/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/manish-3d/dsa-grind/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish-3d/dsa-grind/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -312,6 +315,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manish-3d/dsa-grind/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/manish-3d/dsa-grind/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish-3d/dsa-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/manish-3d/dsa-grind/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
@@ -385,6 +389,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/manish-3d/dsa-grind/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/manish-3d/dsa-grind/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/manish-3d/dsa-grind/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/manish-3d/dsa-grind/tree/master/0901-online-stock-span) |

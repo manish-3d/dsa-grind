@@ -8,7 +8,6 @@ class Solution {
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
 
-        // Find min and max indices
         for (int i = 0; i < n; i++) {
             if (nums[i] <= min) {
                 min = nums[i];
@@ -21,54 +20,58 @@ class Solution {
             }
         }
 
-        int p1 = (n - 1) / 2;
-        int p2 = n / 2;
+        int p1;
+        int p2;
 
-        int left = Math.min(minindex, maxindex);
-        int right = Math.max(minindex, maxindex);
+        if (n % 2 == 0) {
+            p1 = n / 2 - 1;
+            p2 = n / 2;
+        } else {
+            p1 = n / 2;
+            p2 = n / 2;
+        }
 
         int ans = Integer.MAX_VALUE;
 
-        // Both are on the left
+        // Both min and max are on the left
         if (minindex <= p1 && maxindex <= p1) {
-            ans = Math.min(ans, right + 1);
+            int dox = Math.max(minindex, maxindex);
+            ans = dox + 1;
         }
 
-        // Both are on the right
-        if (minindex >= p2 && maxindex >= p2) {
-            ans = Math.min(ans, n - left);
+        // Both min and max are on the right
+        else if (minindex >= p2 && maxindex >= p2) {
+            int dox = Math.min(minindex, maxindex);
+            ans = n - dox;
         }
 
-        // They are on opposite sides
-        if (minindex <= p1 && maxindex >= p2) {
-            // Remove both from left
-            ans = Math.min(ans, right + 1);
+        // max is on left, min is on right
+        else if (maxindex <= p1 && minindex >= p2) {
+            int fromBoth = (maxindex + 1) + (n - minindex);
+            int fromLeft = minindex + 1;
+            int fromRight = n - maxindex;
 
-            // Remove both from right
-            ans = Math.min(ans, n - left);
-
-            // Remove min from left and max from right
-            ans = Math.min(ans, minindex + 1 + n - maxindex);
+            ans = Math.min(fromBoth, Math.min(fromLeft, fromRight));
         }
 
-        if (maxindex <= p1 && minindex >= p2) {
-            // Remove both from left
-            ans = Math.min(ans, right + 1);
+        // min is on left, max is on right
+        else if (minindex <= p1 && maxindex >= p2) {
+            int fromBoth = (minindex + 1) + (n - maxindex);
+            int fromLeft = maxindex + 1;
+            int fromRight = n - minindex;
 
-            // Remove both from right
-            ans = Math.min(ans, n - left);
-
-            // Remove max from left and min from right
-            ans = Math.min(ans, maxindex + 1 + n - minindex);
+            ans = Math.min(fromBoth, Math.min(fromLeft, fromRight));
         }
 
-        // Odd n: middle element
+        // One of them is exactly in the middle for odd n
         if (n % 2 != 0) {
             int mid = n / 2;
 
             if (minindex == mid || maxindex == mid) {
-                ans = Math.min(ans, right + 1);
-                ans = Math.min(ans, n - left);
+                int fromLeft = Math.max(minindex, maxindex) + 1;
+                int fromRight = n - Math.min(minindex, maxindex);
+
+                ans = Math.min(ans, Math.min(fromLeft, fromRight));
             }
         }
 

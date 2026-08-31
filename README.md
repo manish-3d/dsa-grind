@@ -42,6 +42,7 @@
 | [0414-third-maximum-number](https://github.com/manish-3d/dsa-grind/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/manish-3d/dsa-grind/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/manish-3d/dsa-grind/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manish-3d/dsa-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish-3d/dsa-grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0713-subarray-product-less-than-k](https://github.com/manish-3d/dsa-grind/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
@@ -322,6 +324,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish-3d/dsa-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/manish-3d/dsa-grind/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/manish-3d/dsa-grind/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/manish-3d/dsa-grind/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/manish-3d/dsa-grind/tree/master/0901-online-stock-span) |
@@ -398,6 +401,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/manish-3d/dsa-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/manish-3d/dsa-grind/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/manish-3d/dsa-grind/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/manish-3d/dsa-grind/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/manish-3d/dsa-grind/tree/master/0901-online-stock-span) |
@@ -406,4 +410,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/manish-3d/dsa-grind/tree/master/0084-largest-rectangle-in-histogram) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

@@ -42,6 +42,7 @@
 | [0414-third-maximum-number](https://github.com/manish-3d/dsa-grind/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/manish-3d/dsa-grind/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/manish-3d/dsa-grind/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/manish-3d/dsa-grind/tree/master/0494-target-sum) |
@@ -179,6 +180,7 @@
 | [0414-third-maximum-number](https://github.com/manish-3d/dsa-grind/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/manish-3d/dsa-grind/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/manish-3d/dsa-grind/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -273,6 +275,7 @@
 | [0283-move-zeroes](https://github.com/manish-3d/dsa-grind/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/manish-3d/dsa-grind/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/manish-3d/dsa-grind/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/manish-3d/dsa-grind/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/manish-3d/dsa-grind/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manish-3d/dsa-grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/manish-3d/dsa-grind/tree/master/0680-valid-palindrome-ii) |
@@ -322,6 +325,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/manish-3d/dsa-grind/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/manish-3d/dsa-grind/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -352,6 +356,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/manish-3d/dsa-grind/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/manish-3d/dsa-grind/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/manish-3d/dsa-grind/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/manish-3d/dsa-grind/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manish-3d/dsa-grind/tree/master/2091-removing-minimum-and-maximum-from-array) |

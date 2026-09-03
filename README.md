@@ -229,6 +229,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/manish-3d/dsa-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/manish-3d/dsa-grind/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/manish-3d/dsa-grind/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/manish-3d/dsa-grind/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/manish-3d/dsa-grind/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/manish-3d/dsa-grind/tree/master/0451-sort-characters-by-frequency) |
@@ -327,6 +328,7 @@
 | [0085-maximal-rectangle](https://github.com/manish-3d/dsa-grind/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish-3d/dsa-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/manish-3d/dsa-grind/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/manish-3d/dsa-grind/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/manish-3d/dsa-grind/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/manish-3d/dsa-grind/tree/master/0496-next-greater-element-i) |
@@ -362,6 +364,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/manish-3d/dsa-grind/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/manish-3d/dsa-grind/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manish-3d/dsa-grind/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/manish-3d/dsa-grind/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation

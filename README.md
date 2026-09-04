@@ -63,6 +63,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/manish-3d/dsa-grind/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/manish-3d/dsa-grind/tree/master/1480-running-sum-of-1d-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/manish-3d/dsa-grind/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/manish-3d/dsa-grind/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish-3d/dsa-grind/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manish-3d/dsa-grind/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -185,6 +186,7 @@
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/manish-3d/dsa-grind/tree/master/1710-maximum-units-on-a-truck) |
 | [3731-find-missing-elements](https://github.com/manish-3d/dsa-grind/tree/master/3731-find-missing-elements) |
 ## Quickselect
 |  |
@@ -360,6 +362,7 @@
 | [0455-assign-cookies](https://github.com/manish-3d/dsa-grind/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/manish-3d/dsa-grind/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/manish-3d/dsa-grind/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/manish-3d/dsa-grind/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/manish-3d/dsa-grind/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manish-3d/dsa-grind/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String Matching

@@ -50,6 +50,7 @@
 | [0525-contiguous-array](https://github.com/manish-3d/dsa-grind/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/manish-3d/dsa-grind/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/manish-3d/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/manish-3d/dsa-grind/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/manish-3d/dsa-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/manish-3d/dsa-grind/tree/master/0724-find-pivot-index) |
@@ -360,6 +361,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/manish-3d/dsa-grind/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/manish-3d/dsa-grind/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/manish-3d/dsa-grind/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/manish-3d/dsa-grind/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/manish-3d/dsa-grind/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/manish-3d/dsa-grind/tree/master/1710-maximum-units-on-a-truck) |

@@ -67,6 +67,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/manish-3d/dsa-grind/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/manish-3d/dsa-grind/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish-3d/dsa-grind/tree/master/1929-concatenation-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/manish-3d/dsa-grind/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manish-3d/dsa-grind/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/manish-3d/dsa-grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manish-3d/dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -188,6 +189,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/manish-3d/dsa-grind/tree/master/1710-maximum-units-on-a-truck) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/manish-3d/dsa-grind/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3731-find-missing-elements](https://github.com/manish-3d/dsa-grind/tree/master/3731-find-missing-elements) |
 ## Quickselect
 |  |
@@ -366,6 +368,7 @@
 | [0860-lemonade-change](https://github.com/manish-3d/dsa-grind/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/manish-3d/dsa-grind/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/manish-3d/dsa-grind/tree/master/1903-largest-odd-number-in-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/manish-3d/dsa-grind/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manish-3d/dsa-grind/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String Matching
 |  |
@@ -437,4 +440,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/manish-3d/dsa-grind/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->

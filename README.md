@@ -68,6 +68,7 @@
 | [1920-build-array-from-permutation](https://github.com/manish-3d/dsa-grind/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish-3d/dsa-grind/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/manish-3d/dsa-grind/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2073-time-needed-to-buy-tickets](https://github.com/manish-3d/dsa-grind/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manish-3d/dsa-grind/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/manish-3d/dsa-grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manish-3d/dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -292,6 +293,7 @@
 | [0735-asteroid-collision](https://github.com/manish-3d/dsa-grind/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/manish-3d/dsa-grind/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish-3d/dsa-grind/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/manish-3d/dsa-grind/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/manish-3d/dsa-grind/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
@@ -444,4 +446,8 @@
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/manish-3d/dsa-grind/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/manish-3d/dsa-grind/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->

@@ -248,6 +248,7 @@
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0784-letter-case-permutation](https://github.com/manish-3d/dsa-grind/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/manish-3d/dsa-grind/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/manish-3d/dsa-grind/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/manish-3d/dsa-grind/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -318,6 +319,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish-3d/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/manish-3d/dsa-grind/tree/master/0494-target-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/manish-3d/dsa-grind/tree/master/0940-distinct-subsequences-ii) |
 ## Matrix
 |  |
 | ------- |

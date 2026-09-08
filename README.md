@@ -58,6 +58,7 @@
 | [0739-daily-temperatures](https://github.com/manish-3d/dsa-grind/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/manish-3d/dsa-grind/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/manish-3d/dsa-grind/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/manish-3d/dsa-grind/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manish-3d/dsa-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manish-3d/dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
@@ -189,6 +190,7 @@
 | [0455-assign-cookies](https://github.com/manish-3d/dsa-grind/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/manish-3d/dsa-grind/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/manish-3d/dsa-grind/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/manish-3d/dsa-grind/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/manish-3d/dsa-grind/tree/master/1710-maximum-units-on-a-truck) |
@@ -290,6 +292,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/manish-3d/dsa-grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/manish-3d/dsa-grind/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/manish-3d/dsa-grind/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/manish-3d/dsa-grind/tree/master/0948-bag-of-tokens) |
 ## Simulation
 |  |
 | ------- |
@@ -374,6 +377,7 @@
 | [0680-valid-palindrome-ii](https://github.com/manish-3d/dsa-grind/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/manish-3d/dsa-grind/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/manish-3d/dsa-grind/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/manish-3d/dsa-grind/tree/master/0948-bag-of-tokens) |
 | [1710-maximum-units-on-a-truck](https://github.com/manish-3d/dsa-grind/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/manish-3d/dsa-grind/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/manish-3d/dsa-grind/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |

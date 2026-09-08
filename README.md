@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/manish-3d/dsa-grind/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/manish-3d/dsa-grind/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/manish-3d/dsa-grind/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/manish-3d/dsa-grind/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/manish-3d/dsa-grind/tree/master/0075-sort-colors) |
@@ -321,6 +322,7 @@
 | [0005-longest-palindromic-substring](https://github.com/manish-3d/dsa-grind/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/manish-3d/dsa-grind/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/manish-3d/dsa-grind/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish-3d/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0152-maximum-product-subarray) |
@@ -371,6 +373,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/manish-3d/dsa-grind/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/manish-3d/dsa-grind/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/manish-3d/dsa-grind/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/manish-3d/dsa-grind/tree/master/0605-can-place-flowers) |

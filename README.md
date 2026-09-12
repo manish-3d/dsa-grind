@@ -125,6 +125,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manish-3d/dsa-grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
@@ -158,6 +159,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manish-3d/dsa-grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Data Stream
@@ -439,6 +441,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manish-3d/dsa-grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Algorithm X
 |  |

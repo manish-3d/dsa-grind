@@ -125,6 +125,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -160,6 +161,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -359,6 +361,7 @@
 | [0020-valid-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manish-3d/dsa-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/manish-3d/dsa-grind/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish-3d/dsa-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/manish-3d/dsa-grind/tree/master/0155-min-stack) |
@@ -444,6 +447,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manish-3d/dsa-grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |

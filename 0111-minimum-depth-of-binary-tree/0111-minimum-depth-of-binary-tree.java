@@ -18,19 +18,19 @@ class Solution {
         if(root == null){
             return 0;
         }
-        return solveit(root,1,0);
-        
+    int ans = solveit(root,1);
+    return ans;
     }
-    public int  solveit(TreeNode root , int level ,int minlen ){
+    public int solveit(TreeNode root , int level ){
         if(root == null){
             return Integer.MAX_VALUE;
         }
-        if(root.left == null && root.right  == null ){
+        if(root.right == null && root.left == null){
             return level;
         }
-    int left =  solveit(root.left , level + 1,minlen);
-    int right = solveit(root.right, level + 1,minlen);
-    int gang = Math.min(left,right);
-    return gang;
+        int left = solveit(root.left , level + 1);
+        int right = solveit(root.right , level + 1);
+        return Math.min(left,right);
     }
+
 }

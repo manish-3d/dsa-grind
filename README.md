@@ -244,6 +244,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manish-3d/dsa-grind/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/manish-3d/dsa-grind/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/manish-3d/dsa-grind/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/manish-3d/dsa-grind/tree/master/0050-powx-n) |
@@ -299,6 +300,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manish-3d/dsa-grind/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/manish-3d/dsa-grind/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/manish-3d/dsa-grind/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0206-reverse-linked-list) |
@@ -436,6 +438,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manish-3d/dsa-grind/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/manish-3d/dsa-grind/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/manish-3d/dsa-grind/tree/master/0394-decode-string) |

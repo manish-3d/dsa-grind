@@ -300,6 +300,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manish-3d/dsa-grind/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/manish-3d/dsa-grind/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |

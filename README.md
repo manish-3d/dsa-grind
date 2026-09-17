@@ -300,6 +300,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manish-3d/dsa-grind/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -435,6 +436,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/manish-3d/dsa-grind/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/manish-3d/dsa-grind/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manish-3d/dsa-grind/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/manish-3d/dsa-grind/tree/master/1922-count-good-numbers) |

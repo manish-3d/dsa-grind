@@ -304,6 +304,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/manish-3d/dsa-grind/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/manish-3d/dsa-grind/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [0541-reverse-string-ii](https://github.com/manish-3d/dsa-grind/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manish-3d/dsa-grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/manish-3d/dsa-grind/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/manish-3d/dsa-grind/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/manish-3d/dsa-grind/tree/master/0948-bag-of-tokens) |
 ## Simulation

@@ -144,6 +144,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manish-3d/dsa-grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/manish-3d/dsa-grind/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manish-3d/dsa-grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -193,6 +194,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manish-3d/dsa-grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/manish-3d/dsa-grind/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manish-3d/dsa-grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -508,6 +510,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manish-3d/dsa-grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/manish-3d/dsa-grind/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manish-3d/dsa-grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Algorithm X
@@ -557,6 +560,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-3d/dsa-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manish-3d/dsa-grind/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## DP on Trees
 |  |

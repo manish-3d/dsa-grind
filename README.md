@@ -34,6 +34,7 @@
 | [0152-maximum-product-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/manish-3d/dsa-grind/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/manish-3d/dsa-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/manish-3d/dsa-grind/tree/master/0229-majority-element-ii) |
@@ -263,6 +264,7 @@
 | [0066-plus-one](https://github.com/manish-3d/dsa-grind/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish-3d/dsa-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/manish-3d/dsa-grind/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manish-3d/dsa-grind/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
@@ -578,4 +580,24 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/manish-3d/dsa-grind/tree/master/0572-subtree-of-another-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manish-3d/dsa-grind/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manish-3d/dsa-grind/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manish-3d/dsa-grind/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manish-3d/dsa-grind/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manish-3d/dsa-grind/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

@@ -1,28 +1,36 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-
-    long maxWidth = 0;
+    long maxwidth=0;
     List<Long> first = new ArrayList<>();
-
     public int widthOfBinaryTree(TreeNode root) {
-        solve(root, 0, 0);
-        return (int) maxWidth;
+        solveit(root,0,0);
+        return (int) maxwidth;
     }
-
-    private void solve(TreeNode root, long index, int level) {
-
-        if (root == null) return;
-
-        // First/leftmost node of this level
-        if (level == first.size()) {
+    public void solveit(TreeNode root , long index , int level){
+        if(root == null){
+            return;
+        }
+        if(first.size() == level ){
             first.add(index);
         }
-
-        // Width of current node's level
-        long width = index - first.get(level) + 1;
-        maxWidth = Math.max(maxWidth, width);
-
-        // Complete binary tree indexing
-        solve(root.left, 2 * index, level + 1);
-        solve(root.right, 2 * index + 1, level + 1);
+        long width = index - first.get(level)+1;
+        maxwidth = Math.max(width,maxwidth);
+        solveit(root.left , 2*index , level +1);
+        solveit(root.right , 2*index + 1,level + 1);
+        return ;
     }
 }

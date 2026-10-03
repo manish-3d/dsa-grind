@@ -94,6 +94,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/manish-3d/dsa-grind/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/manish-3d/dsa-grind/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/manish-3d/dsa-grind/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/manish-3d/dsa-grind/tree/master/0229-majority-element-ii) |
@@ -161,6 +162,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/manish-3d/dsa-grind/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/manish-3d/dsa-grind/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/manish-3d/dsa-grind/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/manish-3d/dsa-grind/tree/master/0303-range-sum-query-immutable) |
@@ -336,6 +338,7 @@
 | [0061-rotate-list](https://github.com/manish-3d/dsa-grind/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/manish-3d/dsa-grind/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/manish-3d/dsa-grind/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/manish-3d/dsa-grind/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0876-middle-of-the-linked-list) |
@@ -623,6 +626,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/manish-3d/dsa-grind/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/manish-3d/dsa-grind/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->

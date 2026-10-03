@@ -72,6 +72,7 @@
 | [1109-corporate-flight-bookings](https://github.com/manish-3d/dsa-grind/tree/master/1109-corporate-flight-bookings) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/manish-3d/dsa-grind/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/manish-3d/dsa-grind/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/manish-3d/dsa-grind/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/manish-3d/dsa-grind/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/manish-3d/dsa-grind/tree/master/1920-build-array-from-permutation) |
@@ -165,6 +166,7 @@
 | [0303-range-sum-query-immutable](https://github.com/manish-3d/dsa-grind/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/manish-3d/dsa-grind/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/manish-3d/dsa-grind/tree/master/1472-design-browser-history) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | [0295-find-median-from-data-stream](https://github.com/manish-3d/dsa-grind/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/manish-3d/dsa-grind/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/manish-3d/dsa-grind/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -336,6 +339,7 @@
 | [0206-reverse-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/manish-3d/dsa-grind/tree/master/1472-design-browser-history) |
 ## Merge Sort
 |  |
 | ------- |
@@ -437,6 +441,7 @@
 | [0739-daily-temperatures](https://github.com/manish-3d/dsa-grind/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/manish-3d/dsa-grind/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1021-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/manish-3d/dsa-grind/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/manish-3d/dsa-grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/manish-3d/dsa-grind/tree/master/2390-removing-stars-from-a-string) |
@@ -619,4 +624,5 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/manish-3d/dsa-grind/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->

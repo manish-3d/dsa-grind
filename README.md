@@ -152,6 +152,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-3d/dsa-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/manish-3d/dsa-grind/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manish-3d/dsa-grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/manish-3d/dsa-grind/tree/master/0572-subtree-of-another-tree) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manish-3d/dsa-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish-3d/dsa-grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0450-delete-node-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -212,6 +214,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-3d/dsa-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/manish-3d/dsa-grind/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manish-3d/dsa-grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/manish-3d/dsa-grind/tree/master/0572-subtree-of-another-tree) |

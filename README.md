@@ -155,6 +155,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/manish-3d/dsa-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/manish-3d/dsa-grind/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manish-3d/dsa-grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manish-3d/dsa-grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0543-diameter-of-binary-tree) |
@@ -184,6 +185,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/manish-3d/dsa-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manish-3d/dsa-grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -222,6 +224,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/manish-3d/dsa-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/manish-3d/dsa-grind/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manish-3d/dsa-grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manish-3d/dsa-grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0543-diameter-of-binary-tree) |
@@ -556,6 +559,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/manish-3d/dsa-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/manish-3d/dsa-grind/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manish-3d/dsa-grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manish-3d/dsa-grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0543-diameter-of-binary-tree) |

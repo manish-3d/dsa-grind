@@ -187,6 +187,7 @@
 | [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manish-3d/dsa-grind/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0633-sum-of-square-numbers](https://github.com/manish-3d/dsa-grind/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -305,6 +306,7 @@
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/manish-3d/dsa-grind/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/manish-3d/dsa-grind/tree/master/0415-add-strings) |
+| [0633-sum-of-square-numbers](https://github.com/manish-3d/dsa-grind/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manish-3d/dsa-grind/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/manish-3d/dsa-grind/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/manish-3d/dsa-grind/tree/master/1903-largest-odd-number-in-string) |
@@ -391,6 +393,7 @@
 | [0455-assign-cookies](https://github.com/manish-3d/dsa-grind/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/manish-3d/dsa-grind/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manish-3d/dsa-grind/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/manish-3d/dsa-grind/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/manish-3d/dsa-grind/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/manish-3d/dsa-grind/tree/master/0881-boats-to-save-people) |

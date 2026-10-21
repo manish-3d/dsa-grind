@@ -154,6 +154,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-3d/dsa-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/manish-3d/dsa-grind/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -184,6 +185,7 @@
 | [0098-validate-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0098-validate-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/manish-3d/dsa-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish-3d/dsa-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/manish-3d/dsa-grind/tree/master/0456-132-pattern) |
@@ -226,6 +228,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-3d/dsa-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/manish-3d/dsa-grind/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -564,6 +567,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-3d/dsa-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/manish-3d/dsa-grind/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -664,4 +668,12 @@
 | [0146-lru-cache](https://github.com/manish-3d/dsa-grind/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/manish-3d/dsa-grind/tree/master/1472-design-browser-history) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->

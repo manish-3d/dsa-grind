@@ -84,6 +84,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manish-3d/dsa-grind/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/manish-3d/dsa-grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manish-3d/dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manish-3d/dsa-grind/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manish-3d/dsa-grind/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -176,6 +177,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manish-3d/dsa-grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/manish-3d/dsa-grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0713-subarray-product-less-than-k](https://github.com/manish-3d/dsa-grind/tree/master/0713-subarray-product-less-than-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -258,6 +261,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manish-3d/dsa-grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -600,6 +604,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manish-3d/dsa-grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Algorithm X
 |  |
 | ------- |

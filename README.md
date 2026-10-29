@@ -395,6 +395,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/manish-3d/dsa-grind/tree/master/1472-design-browser-history) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -427,6 +428,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/manish-3d/dsa-grind/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/manish-3d/dsa-grind/tree/master/0948-bag-of-tokens) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -502,6 +504,7 @@
 | [1472-design-browser-history](https://github.com/manish-3d/dsa-grind/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manish-3d/dsa-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/manish-3d/dsa-grind/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/manish-3d/dsa-grind/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |

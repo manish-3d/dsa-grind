@@ -37,6 +37,7 @@
 | [0152-maximum-product-subarray](https://github.com/manish-3d/dsa-grind/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/manish-3d/dsa-grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manish-3d/dsa-grind/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/manish-3d/dsa-grind/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/manish-3d/dsa-grind/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/manish-3d/dsa-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish-3d/dsa-grind/tree/master/0215-kth-largest-element-in-an-array) |
@@ -472,6 +473,7 @@
 | [0048-rotate-image](https://github.com/manish-3d/dsa-grind/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/manish-3d/dsa-grind/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/manish-3d/dsa-grind/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/manish-3d/dsa-grind/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish-3d/dsa-grind/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -595,6 +597,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manish-3d/dsa-grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-3d/dsa-grind/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/manish-3d/dsa-grind/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manish-3d/dsa-grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manish-3d/dsa-grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/manish-3d/dsa-grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -659,6 +662,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/manish-3d/dsa-grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/manish-3d/dsa-grind/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/manish-3d/dsa-grind/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/manish-3d/dsa-grind/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manish-3d/dsa-grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manish-3d/dsa-grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/manish-3d/dsa-grind/tree/master/0547-number-of-provinces) |
@@ -715,6 +719,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/manish-3d/dsa-grind/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/manish-3d/dsa-grind/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
